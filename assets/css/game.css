@@ -1,0 +1,15 @@
+.jumbotron {
+	/*margin-top: 20px;*/
+	background-image: url(../images/fortune-teller-crystal-ball-top.jpg);
+	background-size: cover;
+	height: 300px;
+}
+
+h1 {
+	text-align: center;
+}
+
+h4 {
+	font-size-adjust: 10px;
+	text-align: center;
+}
